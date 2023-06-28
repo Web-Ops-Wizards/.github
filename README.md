@@ -40,4 +40,4 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<!-- ![Footer SVG](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg) -->
+![Footer SVG](https://raw.githubusercontent.com/Web-Ops-Wizards/.github/main/assets/bottom_header.svg)
